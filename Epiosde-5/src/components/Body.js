@@ -19,6 +19,10 @@ const[listOfRestaurants,setListOfRestaurant] = useState(restaurantList)
                     Top Rated Restaurnat
                 </button>
             </div>
+
+
+
+                        
             <div className="res-container">
 
                 {
